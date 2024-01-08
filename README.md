@@ -11,9 +11,13 @@ Changes made compared to original tester:
 - Longer cables for sliding probe  
 - Four big holes added to accept 4mm plugs  
   
+KiCAD 3D render of PCB:  
 ![PCB top](doc/batterytester_top.png)  
 ![PCB bottom](doc/batterytester_bottom.png)  
   
+Original tester:  
 ![Original batterytester](doc/batterytester_original.jpeg)  
+  
+Own version with reused parts:  
 ![Tester after modification](doc/batterytester_new.jpeg)  
 
